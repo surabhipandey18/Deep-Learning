@@ -30,7 +30,7 @@ Interpretation: The large spikes indicate that even with residual connections, t
 ![alt text](image-4.png)
 Feature Visualization
 5. Activation Heatmap (Prediction Visualization)
-Description: This image likely represents a visualization technique (such as Grad-CAM or similar saliency map) applied to one of the models for a single prediction. It shows the digit '4' or '9' centered on a heat-mapped background.
+Description: This image represents a visualization technique (such as Grad-CAM or similar saliency map) applied to ResNet models for a single prediction. It shows the digit '9' centered on a heat-mapped background.
 
 Interpretation: The visualization highlights the areas of the input image that the network focused on when making its prediction, showing that the model's highest activations (blue/dark red) are strongly correlated with the object's core features.
 ![alt text](image-5.png)
